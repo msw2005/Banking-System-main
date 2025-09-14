@@ -51,4 +51,4 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 
 We welcome contributions! If you have ideas for improvements or additional features, feel free to submit issues or pull requests.
 
-Thank you for contributing to the Banking System project! 🏦🔒
+Thank you for contributing to the Banking System project! 🏦
