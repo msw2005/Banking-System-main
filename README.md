@@ -37,7 +37,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
    git clone https://github.com/your-username/Project2.git
    ```
 
-2. Open the project in Visual Studio.
+2. Open the project in Visual Studio
 
 3. Build and run the project.
 
