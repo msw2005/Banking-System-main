@@ -39,7 +39,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 
 2. Open the project in Visual Studio
 
-3. Build and run the project.
+3. Build and run the project,
 
 4. Explore various banking operations through the intuitive GUI.
 
