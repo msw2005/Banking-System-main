@@ -15,7 +15,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 - **`changepass.cpp`**: Implementation of the change password form.
 - **`checkbalance.cpp`**: Implementation of the check balance form.
 - **`depositform.cpp`**: Implementation of the deposit form.
-- **`homeform.cpp`**: Implementation of the home form.
+- **`homeform.cpp`**: Implementation of the home form,
 - **`operations.cpp`**: Implementation of various banking operations.
 - **`transfer.cpp`**: Implementation of the fund transfer form.
 - **`withdrawform.cpp`**: Implementation of the withdrawal form.
