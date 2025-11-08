@@ -21,7 +21,7 @@ const string& BankAccount::getAccountNumber() {
 //}
 //
 //void BankAccount::setAccountHolderName(const string& name) {
-//    accountHolderName = name;
+//    accountHolderName = name;jgg
 //}
 
 //const string& BankAccount::getAccountHolderNumber() const {
