@@ -7,7 +7,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 - **`BankAccount.cpp`**: Implementation of the BankAccount class.
 - **`Customer.cpp`**: Implementation of the Customer class.
 - **`LinkedList.cpp`**: Implementation of the LinkedList class.
-- **`ManagedUser.cpp`**: Implementation of the ManagedUser class.
+- **`ManagedUser.cpp`**: Implementation of the ManagedUser class.k
 - **`MyForm.cpp`**: Implementation of the main GUI form.
 - **`Transaction.cpp`**: Implementation of the Transaction class.
 - **`User.cpp`**: Implementation of the User class.
