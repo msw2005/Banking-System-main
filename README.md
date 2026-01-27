@@ -20,7 +20,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 - **`transfer.cpp`**: Implementation of the fund transfer form,
 - **`withdrawform.cpp`**: Implementation of the withdrawal form.
 
-- **`encrypted_bank_accounts.bin`**: Binary file storing encrypted linked list data.
+- **`encrypted_bank_accounts.bin`**: Binary file storing encrypted linked list data
 
 ## Features
 
