@@ -16,7 +16,7 @@ const string& BankAccount::getAccountNumber() {
     return accountNumber;
 }
 
-//const string& BankAccount::getAccountHolderName() const {
+//const string& BankAccount::getAccountHolderName() const {x
 //    return accountHolderName;
 //}
 //
