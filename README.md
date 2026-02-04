@@ -22,7 +22,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 
 - **`encrypted_bank_accounts.bin`**: Binary file storing encrypted linked list data
 
-## Features
+## Features )
 
 - **Linked List Implementation**: Utilizes a linked list data structure for efficient user account management.
   
