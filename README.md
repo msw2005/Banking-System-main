@@ -1,6 +1,6 @@
 # Banking System with Linked List (C++)
 
-Welcome to the Banking System project implemented in C++ with a linked list data structure and GUI using WinForms. This application simulates a banking system with advanced security features, including custom file encryption.
+Welcome to the Banking System project implemented in C++ with a linked list data structure and GUI using WinForms. This application simulates a banking system with advanced security features programming, including custom file encryption.
 
 ## Project Structure
 
