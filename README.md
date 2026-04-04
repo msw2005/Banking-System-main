@@ -2,7 +2,8 @@
 
 Welcome to the Banking System project implemented in C++ with a linked list data structure and GUI using WinForms. This application simulates a banking system with advanced security features programming, including custom file encryption.
 
-## Project Structure
+
+## The Project Structure
 ;
 - **`BankAccount.cpp`**: Implementation of the BankAccount class.
 - **`Customer.cpp`**: Implementation of the Customer class.
