@@ -4,7 +4,7 @@ Welcome to the Banking System project implemented in C++ with a linked list data
 
 
 ## The Project Structure
-;
+;~
 - **`BankAccount.cpp`**: Implementation of the BankAccount class.
 - **`Customer.cpp`**: Implementation of the Customer class.
 - **`LinkedList.cpp`**: Implementation of the LinkedList class.
