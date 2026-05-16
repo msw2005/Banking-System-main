@@ -10,4 +10,7 @@ def __init__(self, user_name: str):
             
         self.friend_names = []
 
-"""def();"""
+"""def abc:
+
+
+"""
